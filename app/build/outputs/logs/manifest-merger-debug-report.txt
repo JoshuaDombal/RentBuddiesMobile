@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:design:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f72d8a524863ce5b0b9381d2635c4708/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/829d56aed8bd0b37ad12731096155c5d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dombalj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f73bf98459cbca5df20e00c73b40f616/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/619f23b9bb3846eae8d4b493d0787292/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1bf4e01ed8e520912e16067050214cb8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/791d7ac19ecc31678e751b2fa317cfee/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2a6e2a419341ffc466a1b318f3b4161/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/65077910cd477ce940b5ae26ad602f4b/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/59bc66a78dcdc4b97ec3308f113e113d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1fa4b2119b2fe6c9014d058d1406166d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7cf0a96c52b460fda216bd31973e131b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ca27ded68b794c79c87e20471f3ca0ea/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/99a3ac04da275910fdb15f87481fe6aa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc49b0d3764d27d3dcb8b93df10d924/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1eb2abc7e2a1bb7e0f6179ecfd393179/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b2ffb64ae4e0ea3894d7ea3d96095a98/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/0233453411164ff7c199bb574626ce90/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/115707e19756290e7584c0350899c97a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/00962b34f5f55dc11818731d802bea82/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cae3bc98ef2379c63db3c1a62c7904eb/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/d212fdc902c65af781fa9d3ac1a29198/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:12:5-48:19
+MERGED from [com.android.support:design:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f72d8a524863ce5b0b9381d2635c4708/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f72d8a524863ce5b0b9381d2635c4708/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/829d56aed8bd0b37ad12731096155c5d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/829d56aed8bd0b37ad12731096155c5d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dombalj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f73bf98459cbca5df20e00c73b40f616/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dombalj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f73bf98459cbca5df20e00c73b40f616/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:30:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/619f23b9bb3846eae8d4b493d0787292/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/619f23b9bb3846eae8d4b493d0787292/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1bf4e01ed8e520912e16067050214cb8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1bf4e01ed8e520912e16067050214cb8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/791d7ac19ecc31678e751b2fa317cfee/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/791d7ac19ecc31678e751b2fa317cfee/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2a6e2a419341ffc466a1b318f3b4161/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2a6e2a419341ffc466a1b318f3b4161/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/65077910cd477ce940b5ae26ad602f4b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/65077910cd477ce940b5ae26ad602f4b/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/59bc66a78dcdc4b97ec3308f113e113d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/59bc66a78dcdc4b97ec3308f113e113d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1fa4b2119b2fe6c9014d058d1406166d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1fa4b2119b2fe6c9014d058d1406166d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7cf0a96c52b460fda216bd31973e131b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7cf0a96c52b460fda216bd31973e131b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ca27ded68b794c79c87e20471f3ca0ea/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ca27ded68b794c79c87e20471f3ca0ea/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/99a3ac04da275910fdb15f87481fe6aa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/99a3ac04da275910fdb15f87481fe6aa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc49b0d3764d27d3dcb8b93df10d924/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc49b0d3764d27d3dcb8b93df10d924/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1eb2abc7e2a1bb7e0f6179ecfd393179/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1eb2abc7e2a1bb7e0f6179ecfd393179/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b2ffb64ae4e0ea3894d7ea3d96095a98/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b2ffb64ae4e0ea3894d7ea3d96095a98/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/0233453411164ff7c199bb574626ce90/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/0233453411164ff7c199bb574626ce90/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/115707e19756290e7584c0350899c97a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/115707e19756290e7584c0350899c97a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/00962b34f5f55dc11818731d802bea82/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/00962b34f5f55dc11818731d802bea82/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cae3bc98ef2379c63db3c1a62c7904eb/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cae3bc98ef2379c63db3c1a62c7904eb/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/d212fdc902c65af781fa9d3ac1a29198/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/d212fdc902c65af781fa9d3ac1a29198/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.example.dombalj.rentbuddies.MainActivity
+ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.example.dombalj.rentbuddies.HouseInfo
+ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:29:9-32:59
+	android:label
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:31:13-62
+	android:theme
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:30:13-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:41:9-43:55
+	android:value
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:42:13-58
+activity#com.example.dombalj.rentbuddies.MapsActivity
+ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:45:9-47:68
+	android:label
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml:46:13-41
+uses-sdk
+INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f72d8a524863ce5b0b9381d2635c4708/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f72d8a524863ce5b0b9381d2635c4708/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/829d56aed8bd0b37ad12731096155c5d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/829d56aed8bd0b37ad12731096155c5d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dombalj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f73bf98459cbca5df20e00c73b40f616/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dombalj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f73bf98459cbca5df20e00c73b40f616/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/619f23b9bb3846eae8d4b493d0787292/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/619f23b9bb3846eae8d4b493d0787292/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1bf4e01ed8e520912e16067050214cb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1bf4e01ed8e520912e16067050214cb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/791d7ac19ecc31678e751b2fa317cfee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/791d7ac19ecc31678e751b2fa317cfee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2a6e2a419341ffc466a1b318f3b4161/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2a6e2a419341ffc466a1b318f3b4161/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/65077910cd477ce940b5ae26ad602f4b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/65077910cd477ce940b5ae26ad602f4b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/59bc66a78dcdc4b97ec3308f113e113d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/59bc66a78dcdc4b97ec3308f113e113d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1fa4b2119b2fe6c9014d058d1406166d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1fa4b2119b2fe6c9014d058d1406166d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7cf0a96c52b460fda216bd31973e131b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7cf0a96c52b460fda216bd31973e131b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ca27ded68b794c79c87e20471f3ca0ea/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ca27ded68b794c79c87e20471f3ca0ea/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/99a3ac04da275910fdb15f87481fe6aa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/99a3ac04da275910fdb15f87481fe6aa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc49b0d3764d27d3dcb8b93df10d924/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc49b0d3764d27d3dcb8b93df10d924/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1eb2abc7e2a1bb7e0f6179ecfd393179/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1eb2abc7e2a1bb7e0f6179ecfd393179/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b2ffb64ae4e0ea3894d7ea3d96095a98/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b2ffb64ae4e0ea3894d7ea3d96095a98/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/0233453411164ff7c199bb574626ce90/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/0233453411164ff7c199bb574626ce90/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/115707e19756290e7584c0350899c97a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/115707e19756290e7584c0350899c97a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/00962b34f5f55dc11818731d802bea82/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/00962b34f5f55dc11818731d802bea82/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cae3bc98ef2379c63db3c1a62c7904eb/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cae3bc98ef2379c63db3c1a62c7904eb/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/d212fdc902c65af781fa9d3ac1a29198/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/d212fdc902c65af781fa9d3ac1a29198/AndroidManifest.xml:4:5-43
+INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f72d8a524863ce5b0b9381d2635c4708/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+		ADDED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dombalj/AndroidStudioProjects/rentBuddies/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f72d8a524863ce5b0b9381d2635c4708/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/829d56aed8bd0b37ad12731096155c5d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/829d56aed8bd0b37ad12731096155c5d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/619f23b9bb3846eae8d4b493d0787292/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/619f23b9bb3846eae8d4b493d0787292/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1bf4e01ed8e520912e16067050214cb8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/1bf4e01ed8e520912e16067050214cb8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/791d7ac19ecc31678e751b2fa317cfee/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/791d7ac19ecc31678e751b2fa317cfee/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2a6e2a419341ffc466a1b318f3b4161/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/d2a6e2a419341ffc466a1b318f3b4161/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7cf0a96c52b460fda216bd31973e131b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7cf0a96c52b460fda216bd31973e131b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ca27ded68b794c79c87e20471f3ca0ea/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ca27ded68b794c79c87e20471f3ca0ea/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/99a3ac04da275910fdb15f87481fe6aa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/99a3ac04da275910fdb15f87481fe6aa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc49b0d3764d27d3dcb8b93df10d924/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/0dc49b0d3764d27d3dcb8b93df10d924/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1eb2abc7e2a1bb7e0f6179ecfd393179/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/1eb2abc7e2a1bb7e0f6179ecfd393179/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b2ffb64ae4e0ea3894d7ea3d96095a98/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b2ffb64ae4e0ea3894d7ea3d96095a98/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f72d8a524863ce5b0b9381d2635c4708/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f72d8a524863ce5b0b9381d2635c4708/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/349d5ee5fc34c1e5b80c615652634407/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/65077910cd477ce940b5ae26ad602f4b/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/65077910cd477ce940b5ae26ad602f4b/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/65077910cd477ce940b5ae26ad602f4b/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/65077910cd477ce940b5ae26ad602f4b/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1fa4b2119b2fe6c9014d058d1406166d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1fa4b2119b2fe6c9014d058d1406166d/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/1fa4b2119b2fe6c9014d058d1406166d/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cae3bc98ef2379c63db3c1a62c7904eb/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cae3bc98ef2379c63db3c1a62c7904eb/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/dombalj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/cae3bc98ef2379c63db3c1a62c7904eb/AndroidManifest.xml:26:13-58
